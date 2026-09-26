@@ -26,6 +26,3 @@ Then visit <http://localhost:8000>.
 - `style.css` — styling
 - `script.js` — task logic
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
